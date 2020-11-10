@@ -98,7 +98,7 @@ header{
        color: inherit;
        font-size: 1.6rem;
        font-weight: 700;
-       padding: 100px 0 100px 0 ;
+       padding: 0 20px 0 20px;
 }
 
 a{
@@ -162,7 +162,7 @@ h1 ,h2, h3{
 .logo{   
     font: 400  5rem 'Pacifico', cursive;
     color: inherit;
-    padding: 0 1.5rem 0 15rem ; 
+    
 }
 nav ul{
     padding: 0;
@@ -252,13 +252,6 @@ header .container{
     background-color: white;
 }
 .scrol{
-    height: 50px;
-    width: 30px;
-    background-image: url(../img/smpic/scroll.png); 
-    text-align: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center ;
     bottom: 70px;
     left: 50%;
     transform: translate(-50%, 0); 
